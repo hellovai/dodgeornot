@@ -1,5 +1,7 @@
 # Created by https://www.gitignore.io/api/osx,linux,python,windows,sublimetext,visualstudio,visualstudiocode
 
+setup.env
+
 ### Linux ###
 *~
 
